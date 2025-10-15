@@ -23,6 +23,9 @@ California Polytechnic State University (Cal Poly) in San Luis Obispo. My little
 
 In my personal life, I strive to become a more virtuous person for the sake of helping others and to ultimately be welcomed home by our creator 👐.
 
+[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=regalejandro&hide=prs,issues&show_icons=true&theme=solarized-light)](https://github.com/regalejandro/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regalejandro&layout=compact&theme=solarized-light)
+
 ## What I'm Up To
 
 - 🛠️ I’m currently working on **Artich1 Bluetooth Speaker**
@@ -33,6 +36,8 @@ In my personal life, I strive to become a more virtuous person for the sake of h
 - 📮 Contact me at **abc.regalejandro.03@gmail.com**
 
 - 📑 Check out my [Resume](https://aregal-resume.tiiny.site)!
+
+
 
 ## 🦉 Projects
 
@@ -46,7 +51,7 @@ In my personal life, I strive to become a more virtuous person for the sake of h
         </a>
         <h3>Kanto Squad Selector iOS App</h3>
         <p style="font-size: 14px;">
-          Randomly generate squads for Generation 1 Pokémon games and keep track of who you've used previously!
+          Randomly generate squads for Generation 1 Pokémon games and keep track of previously used Pokémon!
         </p>
         <p>
           <b>Tech:</b> Swift, Xcode, iOS
