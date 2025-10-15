@@ -23,9 +23,7 @@ California Polytechnic State University (Cal Poly) in San Luis Obispo. My little
 
 In my personal life, I strive to become a more virtuous person for the sake of helping others and to ultimately be welcomed home by our creator 👐.
 
-
-
-### What I'm Up To
+## What I'm Up To
 
 - 🛠️ I’m currently working on **Artich1 Bluetooth Speaker**
 
@@ -44,7 +42,7 @@ In my personal life, I strive to become a more virtuous person for the sake of h
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/regalejandro/Kanto-Squad-Selector-iOS-App" target="_blank" rel="noreferrer">
-          <img src="https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest?cb=20140520015336" alt="kantoss" width="65%" style="border-radius: 10px;"/>
+          <img src="https://github.com/user-attachments/assets/94f97226-c481-448a-aff1-868afcc448cb" alt="kantoss" width="65%" style="border-radius: 10px;"/>
         </a>
         <h3>Kanto Squad Selector iOS App</h3>
         <p style="font-size: 14px;">
@@ -74,12 +72,15 @@ In my personal life, I strive to become a more virtuous person for the sake of h
   </tr>
 </table>
 
-
-
-
-<h3 align="left">Platforms and Tools</h3>
+## Platforms and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> <img src="https://stmicroelectronics.gallerycdn.vsassets.io/extensions/stmicroelectronics/stm32-vscode-extension/3.6.3/1759174927511/Microsoft.VisualStudio.Services.Icons.Default" alt="stm32cubeide" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Profiles</h3>
+#### I also have some experience with...
+Java, LTSpice, Eagle, Fusion 360, Oscilloscopes, Function Generators, Through-Hole and Surface-Mount Soldering
+
+## Profiles
 <a href="https://linkedin.com/in/alreg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alreg" height="30" width="40" /></a>
-</p>
+
+
+
+
