@@ -2,14 +2,35 @@
 
   **`🎓 Computer Engineering Alumnus`**
 
-<p align="left">
-Welcome to my Github profile, I am Alejandro Regalado. I am passionate about learning and am a Bachelor of Science in Computer Engineering from California Polytechnic State University (Cal Poly), San Luis Obispo. 👨🏻‍🔬 While my primary area of interest is on embedded applications and computer architecture, I also have some experience with Swift iOS development and Java. In my personal life, I strive to become a more virtuous person for the sake of helping others and to ultimately be welcomed home by our creator 👐. 
- 
-## About Me
+<table style="border: none;">
+  <tr>
+    <td style="border: none; vertical-align: middle; padding-right: 10px; width: 60px;">
+      <a href="https://www.calpoly.edu" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/en/d/d9/CalPoly_Seal.svg" alt="calpolyseal" width="60"/>
+      </a>
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      <b>Bachelor of Science in Computer Engineering</b><br>
+      California Polytechnic State University, San Luis Obispo
+    </td>
+  </tr>
+</table>
+
+Welcome to my GitHub profile, I am **Alejandro Regalado**. I am passionate about learning and hold a **Bachelor of Science in Computer Engineering** from
+California Polytechnic State University (Cal Poly) in San Luis Obispo. My little profile here is an exploration of ideas and a space for me to develop skills, old and new 🏃🏻‍♂️.
+
+👨🏻‍🔬  While my primary areas of interest are **embedded applications** and **computer architecture**, I also enjoy Swift iOS development.  
+
+In my personal life, I strive to become a more virtuous person for the sake of helping others and to ultimately be welcomed home by our creator 👐.
+
+
+
+## What I'm Up To
 
 - 🛠️ I’m currently working on **`Artich1 Bluetooth Speaker`**
 
 - 📚 I’ve been learning more about and practicing **Adjustable Analog Filtering**
+  - Strengthening my skills in **Embedded Systems** and **C Programming**
 
 - 📮 Contact me at **abc.regalejandro.03@gmail.com**
 
