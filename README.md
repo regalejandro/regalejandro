@@ -25,9 +25,9 @@ In my personal life, I strive to become a more virtuous person for the sake of h
 
 
 
-## What I'm Up To
+### What I'm Up To
 
-- 🛠️ I’m currently working on **`Artich1 Bluetooth Speaker`**
+- 🛠️ I’m currently working on **Artich1 Bluetooth Speaker**
 
 - 📚 I’ve been learning more about and practicing **Adjustable Analog Filtering**
   - Strengthening my skills in **Embedded Systems** and **C Programming**
@@ -35,6 +35,47 @@ In my personal life, I strive to become a more virtuous person for the sake of h
 - 📮 Contact me at **abc.regalejandro.03@gmail.com**
 
 - 📑 Check out my [Resume](https://aregal-resume.tiiny.site)!
+
+## 🦉 Projects
+
+<table style="border: none; width: 100%;">
+  <tr>
+    <!-- Project 1 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div align="center">
+        <a href="https://github.com/regalejandro/Kanto-Squad-Selector-iOS-App" target="_blank" rel="noreferrer">
+          <img src="https://static.wikia.nocookie.net/pokemon-fano/images/6/6f/Poke_Ball.png/revision/latest?cb=20140520015336" alt="kantoss" width="65%" style="border-radius: 10px;"/>
+        </a>
+        <h3>Kanto Squad Selector iOS App</h3>
+        <p style="font-size: 14px;">
+          Randomly generate squads for Generation 1 Pokémon games and keep track of who you've used previously!
+        </p>
+        <p>
+          <b>Tech:</b> Swift, Xcode, iOS
+        </p>
+      </div>
+    </td>
+    <!-- Project 2 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div align="center">
+        <a href="https://github.com/regalejandro/Artich1-Speaker-Embedded" target="_blank" rel="noreferrer">
+          <img src="https://static.vecteezy.com/system/resources/previews/063/178/051/non_2x/black-abstract-sound-wave-illustration-free-vector.jpg" alt="artich-one" width="65%" style="border-radius: 10px;"/>
+        </a>
+        <h3>Artich1 Bluetooth Speaker</h3>
+        ⚠️ 🔴 <b>Under Construction</b> 🚧
+        <p style="font-size: 14px;">
+          <br>Embedded speaker application with interactive hardware menu navigation. Adjustable filters for equalizing output sound.
+        </p>
+        <p>
+         <b>Tech:</b> C, Arduino, Bluetooth
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
 
 <h3 align="left">Platforms and Tools</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.st.com/en/development-tools/stm32cubeide.html" target="_blank" rel="noreferrer"> <img src="https://stmicroelectronics.gallerycdn.vsassets.io/extensions/stmicroelectronics/stm32-vscode-extension/3.6.3/1759174927511/Microsoft.VisualStudio.Services.Icons.Default" alt="stm32cubeide" width="40" height="40"/> </a> <a href="https://www.raspberrypi.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="raspberrypi" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
