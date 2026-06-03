@@ -61,16 +61,15 @@ In my personal life, I strive to become a more virtuous person for the sake of h
     <!-- Project 2 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
-        <a href="https://github.com/regalejandro/Artich1-Speaker-Embedded" target="_blank" rel="noreferrer">
-          <img src="https://static.vecteezy.com/system/resources/previews/063/178/051/non_2x/black-abstract-sound-wave-illustration-free-vector.jpg" alt="artich-one" width="65%" style="border-radius: 10px;"/>
+        <a href="https://github.com/regalejandro/Four-in-a-Row" target="_blank" rel="noreferrer">
+          <img src="https://github.com/user-attachments/assets/f14abd6b-229a-43f9-8bd5-b00623cb9be6" alt="artich-one" width="95%" style="border-radius: 10px;"/>
         </a>
-        <h3>Artich1 Bluetooth Speaker</h3>
-        ⚠️ 🔴 <b>Under Construction</b> 🚧
+        <h3>Connect 4 Game</h3>
         <p style="font-size: 14px;">
-          <br>Embedded speaker application with interactive hardware menu navigation. Adjustable filters for equalizing output sound.
+          Terminal-based Connect 4. Supports Connect 3-6 variants, PvP mode, and four difficulty levels.
         </p>
         <p>
-         <b>Tech:</b> C, Arduino, Bluetooth
+         <b>Tech:</b> C, GCC
         </p>
       </div>
     </td>
