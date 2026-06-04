@@ -47,7 +47,7 @@ In my personal life, I strive to become a more virtuous person for the sake of h
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/regalejandro/Kanto-Squad-Selector-iOS-App" target="_blank" rel="noreferrer">
-          <img src="https://github.com/user-attachments/assets/94f97226-c481-448a-aff1-868afcc448cb" alt="kantoss" width="65%" style="border-radius: 10px;"/>
+         <img src="https://github.com/user-attachments/assets/94f97226-c481-448a-aff1-868afcc448cb" alt="kantoss" width="455" height="455"/>
         </a>
         <h3>Kanto Squad Selector iOS App</h3>
         <p style="font-size: 14px;">
@@ -62,7 +62,7 @@ In my personal life, I strive to become a more virtuous person for the sake of h
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/regalejandro/Four-in-a-Row" target="_blank" rel="noreferrer">
-          <img src="https://github.com/user-attachments/assets/f14abd6b-229a-43f9-8bd5-b00623cb9be6" alt="artich-one" width="95%" style="border-radius: 10px;"/>
+         <img width="512" height="512" alt="Connect4" src="https://github.com/user-attachments/assets/cc154f62-6d3f-4faa-ac2e-37fea08a89bc" /> 
         </a>
         <h3>Connect 4 Game</h3>
         <p style="font-size: 14px;">
