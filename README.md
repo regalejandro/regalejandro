@@ -23,9 +23,9 @@ California Polytechnic State University (Cal Poly) in San Luis Obispo. My little
 
 In my personal life, I strive to become a more virtuous person for the sake of helping others and to ultimately be welcomed home by our creator 👐.
 
-[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=regalejandro&hide=prs,issues&show_icons=true&theme=solarized-light)](https://github.com/regalejandro/github-readme-stats)
+<!--[![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=regalejandro&hide=prs,issues&show_icons=true&theme=solarized-light)](https://github.com/regalejandro/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=regalejandro&layout=compact&theme=solarized-light)
-
+-->
 ## What I'm Up To
 
 - 🛠️ I’m currently working on **Artich1 Bluetooth Speaker**
