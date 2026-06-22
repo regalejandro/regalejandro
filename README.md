@@ -28,15 +28,12 @@ In my personal life, I strive to become a more virtuous person for the sake of h
 -->
 ## What I'm Up To
 
-- 🛠️ I’m currently working on **Artich1 Bluetooth Speaker**
+- 🛠️ I’m currently working on **ScripturePal iOS App**
 
-- 📚 I’ve been learning more about and practicing **Adjustable Analog Filtering**
-  - Strengthening my skills in **Embedded Systems** and **C Programming**
+- 📚 I’ve been learning more about and practicing **App Development**
+  - Strengthening my skills in **Swift** and **user-oriented design**
 
 - 📮 Contact me at **abc.regalejandro.03@gmail.com**
-
-- 📑 Check out my [Resume](https://aregal-resume.tiiny.site)!
-
 
 
 ## 🦉 Projects
