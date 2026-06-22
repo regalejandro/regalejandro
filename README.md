@@ -46,8 +46,23 @@ In my personal life, I strive to become a more virtuous person for the sake of h
     <!-- Project 1 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
+        <a href="https://github.com/regalejandro/ScripturePal-iOS-App" target="_blank" rel="noreferrer">
+         <img width="512" height="512" alt="ScripturePal" src="https://github.com/user-attachments/assets/0a8068a0-6993-455a-b3aa-91bb823f9620"/>
+        </a>
+        <h3>ScripturePal iOS App</h3>
+        <p style="font-size: 14px;">
+          Get a chapter randomly chosen for you to study, track reading progress, see the stats.
+        </p>
+        <p>
+         <b>Tech:</b> Swift, Xcode iOS
+        </p>
+      </div>
+    </td>
+    <!-- Project 2 -->
+    <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
+      <div align="center">
         <a href="https://github.com/regalejandro/Kanto-Squad-Selector-iOS-App" target="_blank" rel="noreferrer">
-         <img src="https://github.com/user-attachments/assets/94f97226-c481-448a-aff1-868afcc448cb" alt="kantoss" width="455" height="455"/>
+         <img src="https://github.com/user-attachments/assets/94f97226-c481-448a-aff1-868afcc448cb" alt="kantoss" width="300" height="300"/>
         </a>
         <h3>Kanto Squad Selector iOS App</h3>
         <p style="font-size: 14px;">
@@ -58,7 +73,7 @@ In my personal life, I strive to become a more virtuous person for the sake of h
         </p>
       </div>
     </td>
-    <!-- Project 2 -->
+    <!-- Project 3 -->
     <td style="border: none; width: 33%; vertical-align: top; padding: 10px;">
       <div align="center">
         <a href="https://github.com/regalejandro/Four-in-a-Row" target="_blank" rel="noreferrer">
