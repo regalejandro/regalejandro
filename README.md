@@ -51,6 +51,9 @@ In my personal life, I strive to become a more virtuous person for the sake of h
           Get a chapter randomly chosen for you to study, track reading progress, see the stats.
         </p>
         <p>
+         <a href="https://apps.apple.com/us/app/scripturepal/id6782519703">Download on the AppStore!</a>
+        </p>
+        <p>
          <b>Tech:</b> Swift, Xcode iOS
         </p>
       </div>
