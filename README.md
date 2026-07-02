@@ -1,6 +1,6 @@
 # 🙋🏻‍♂️ Alejandro Regalado 💻 ⚡
 
-  **`🎓 Computer Engineering Alumnus`**
+  **`🎓 Computer Engineering Alumnus`** ·  [**`🌐Portfolio`**](https://regalejandro.github.io/portfolio-site/)
 
 <table style="border: none;">
   <tr>
@@ -32,6 +32,8 @@ In my personal life, I strive to become a more virtuous person for the sake of h
 
 - 📚 I’ve been learning more about and practicing **App Development**
   - Strengthening my skills in **Swift** and **user-oriented design**
+
+- 🌐 Check out my portfolio at **[regalejandro.github.io/portfolio-site](https://regalejandro.github.io/portfolio-site/)**
 
 - 📮 Contact me at **abc.regalejandro.03@gmail.com**
 
